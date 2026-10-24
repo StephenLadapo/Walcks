@@ -1,0 +1,210 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.safety_app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="24"
+8-->INJECTED
+9        android:targetSdkVersion="36" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:4:5-81
+11-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.SEND_SMS" />
+13-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:6:5-67
+13-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:6:22-64
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:7:5-75
+14-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:7:22-72
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:8:5-67
+15-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:8:22-64
+16    <uses-permission android:name="android.permission.READ_CONTACTS" />
+16-->[:fluttercontactpicker_plus] C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-72
+16-->[:fluttercontactpicker_plus] C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:22-69
+17
+18    <permission
+18-->[androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.example.safety_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.example.safety_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->INJECTED
+25        android:name="android.app.Application"
+25-->INJECTED
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+27        android:extractNativeLibs="false"
+27-->INJECTED
+28        android:icon="@mipmap/ic_launcher"
+28-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:12:9-43
+29        android:label="Walcks" >
+29-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:10:9-31
+30        <activity
+30-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:14:9-32:20
+31            android:name="com.example.safety_app.MainActivity"
+31-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:15:13-41
+32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+32-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:20:13-163
+33            android:exported="true"
+33-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:16:13-36
+34            android:hardwareAccelerated="true"
+34-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:21:13-47
+35            android:launchMode="singleTop"
+35-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:17:13-43
+36            android:taskAffinity=""
+36-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:18:13-36
+37            android:theme="@style/LaunchTheme"
+37-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:19:13-47
+38            android:windowSoftInputMode="adjustResize" >
+38-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:22:13-55
+39            <meta-data
+39-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:24:13-26:57
+40                android:name="io.flutter.embedding.android.NormalTheme"
+40-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:25:17-72
+41                android:resource="@style/NormalTheme" />
+41-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:26:17-54
+42
+43            <intent-filter>
+43-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:28:13-31:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:29:17-69
+44-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:29:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:30:17-77
+46-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:30:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <meta-data
+50-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:34:9-36:33
+51            android:name="flutterEmbedding"
+51-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:35:13-44
+52            android:value="2" />
+52-->C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:36:13-30
+53
+54        <service
+54-->[:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-12:56
+55            android:name="com.baseflow.geolocator.GeolocatorLocationService"
+55-->[:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-77
+56            android:enabled="true"
+56-->[:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-35
+57            android:exported="false"
+57-->[:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-37
+58            android:foregroundServiceType="location" />
+58-->[:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:13-53
+59
+60        <activity
+60-->[:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-11:74
+61            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+61-->[:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-74
+62            android:exported="false"
+62-->[:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-37
+63            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+63-->[:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-71
+64
+65        <uses-library
+65-->[androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:23:9-25:40
+66            android:name="androidx.window.extensions"
+66-->[androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:24:13-54
+67            android:required="false" />
+67-->[androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:25:13-37
+68        <uses-library
+68-->[androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:26:9-28:40
+69            android:name="androidx.window.sidecar"
+69-->[androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:27:13-51
+70            android:required="false" />
+70-->[androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:28:13-37
+71
+72        <activity
+72-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+73            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+73-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+74            android:exported="false"
+74-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+75            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+75-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+76
+77        <meta-data
+77-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+78            android:name="com.google.android.gms.version"
+78-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+79            android:value="@integer/google_play_services_version" />
+79-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+80
+81        <provider
+81-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+82            android:name="androidx.startup.InitializationProvider"
+82-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+83            android:authorities="com.example.safety_app.androidx-startup"
+83-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+84            android:exported="false" >
+84-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+85            <meta-data
+85-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+86                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+86-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+87                android:value="androidx.startup" />
+87-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+88            <meta-data
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+89                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+90                android:value="androidx.startup" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+91        </provider>
+92
+93        <receiver
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+94            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+95            android:directBootAware="false"
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+96            android:enabled="true"
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+97            android:exported="true"
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+98            android:permission="android.permission.DUMP" >
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+100                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+101            </intent-filter>
+102            <intent-filter>
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+103                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+104            </intent-filter>
+105            <intent-filter>
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+106                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+107            </intent-filter>
+108            <intent-filter>
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+109                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+110            </intent-filter>
+111        </receiver>
+112    </application>
+113
+114</manifest>

@@ -1,0 +1,36 @@
+<variant
+    name="release"
+    package="com.example.safety_app"
+    minSdkVersion="24"
+    targetSdkVersion="36.0"
+    shrinking="true"
+    mergedManifest="C:\Users\I Am TCCIT\Walcks\build\app\intermediates\merged_manifest\release\outputReleaseAppLinkSettings\AndroidManifest.xml"
+    manifestMergeReport="C:\Users\I Am TCCIT\Walcks\build\app\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="C:\Users\I Am TCCIT\Walcks\build\app\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.1.0;C:\src\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro"
+    partialResultsDir="C:\Users\I Am TCCIT\Walcks\build\app\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\release\java;src\main\kotlin;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"
+        keepRulesDirectories="src\main\keepRules;src\release\keepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <artifact
+      classOutputs="C:\Users\I Am TCCIT\Walcks\build\app\intermediates\javac\release\compileReleaseJavaWithJavac\classes;C:\Users\I Am TCCIT\Walcks\build\app\tmp\kotlin-classes\release;C:\Users\I Am TCCIT\Walcks\build\app\kotlinToolingMetadata;C:\Users\I Am TCCIT\Walcks\build\app\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar"
+      type="MAIN"
+      applicationId="com.example.safety_app"
+      generatedSourceFolders="C:\Users\I Am TCCIT\Walcks\build\app\generated\ap_generated_sources\release\out"
+      desugaredMethodsFiles="C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\b0be1f807b2bb5705843090c37bdabde\workspace\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

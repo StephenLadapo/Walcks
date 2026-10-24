@@ -1,0 +1,13 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fluttercontactpicker" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->INJECTED
+5-->INJECTED
+6
+7    <uses-permission android:name="android.permission.READ_CONTACTS" />
+7-->C:\Users\I Am TCCIT\AppData\Local\Pub\Cache\hosted\pub.dev\fluttercontactpicker_plus-5.1.1\android\src\main\AndroidManifest.xml:2:3-69
+7-->C:\Users\I Am TCCIT\AppData\Local\Pub\Cache\hosted\pub.dev\fluttercontactpicker_plus-5.1.1\android\src\main\AndroidManifest.xml:2:20-67
+8
+9</manifest>

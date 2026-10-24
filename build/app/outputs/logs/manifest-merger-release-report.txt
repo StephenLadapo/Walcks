@@ -1,0 +1,454 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:9:5-38:19
+INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:9:5-38:19
+MERGED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-13:19
+MERGED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-13:19
+MERGED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\baea6858da4188cc87e9b309d9581185\workspace\transformed\play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\baea6858da4188cc87e9b309d9581185\workspace\transformed\play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\722ddbf2b9d5557837d89eb6c7c7be28\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\722ddbf2b9d5557837d89eb6c7c7be28\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b4102c231a6286b797c71f1baf13a34\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b4102c231a6286b797c71f1baf13a34\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\cd2c59b851083326f63879acf62ab040\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\cd2c59b851083326f63879acf62ab040\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:10:9-31
+	android:icon
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:11:9-42
+manifest
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [:fluttercontactpicker_plus] C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-9:12
+MERGED from [:geocoding_android] C:\Users\I Am TCCIT\Walcks\build\geocoding_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-15:12
+MERGED from [:jni_flutter] C:\Users\I Am TCCIT\Walcks\build\jni_flutter\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:jni] C:\Users\I Am TCCIT\Walcks\build\jni\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] C:\Users\I Am TCCIT\Walcks\build\package_info_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\baea6858da4188cc87e9b309d9581185\workspace\transformed\play-services-location-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ff37497f57f986e9fcda827e43928a1\workspace\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\0e8685eb873f930c2d934e8a0cb52f35\workspace\transformed\browser-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3011132ea42f1fb8e17f3e414b357516\workspace\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\d97e8ebe169ff71bb8d8cd24b20c4b5c\workspace\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\dbf382485cedbea82a05027c1955eeb3\workspace\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\169afe10ff2f01272b137719d317fb78\workspace\transformed\window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\722ddbf2b9d5557837d89eb6c7c7be28\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\01d73e21b5ac055796b537161fdf2798\workspace\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\185ef1024ea4b8de184f956b833ac40a\workspace\transformed\fragment-ktx-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\f50199c6f2c0bda4d178780a23cc1f50\workspace\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\13fe1f53ec9f73bcb89d12befbf6d68a\workspace\transformed\activity-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\f94177dd763c96e4583ec4f1fb6402ad\workspace\transformed\activity-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8a6d667d2630f9b6dbacca3965bc2a96\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\1910b6d9312a778ba1bce42e0ad447b6\workspace\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9c03e2381136b6831b281ff9bd73cf46\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\61070a8fba1ea80b750da88bf19a92c7\workspace\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\33205348bc67036e78f8c2342772ca91\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\d3211d1d7fd67f776447c54fdd47dad2\workspace\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3527fd5c9b1735c136ab64fdeadc3bd3\workspace\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\cf9664ba8c5c4414650bee773713e7bb\workspace\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\bcc68d1ab496af16533338b8f60a5b3c\workspace\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\1ff99216ea621199391367349185a5c0\workspace\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5bf42ee1243bc8553b0b0f5e9217a5e8\workspace\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\fa680d2c652d4a5fee36a8142f0bc47f\workspace\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\516b6a68a64c500f5e831b94e32b4b7c\workspace\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3426c2155b5573e7f9d7789e3d58fffa\workspace\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\87fc5e4fc92461a94440f9843cba1254\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\24758a678aa8332920bcf354b2fc92ed\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\21147ec51953fdf1826caf13610476e6\workspace\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\099fa84de9a3b9c91d7f9d4a61afe2f1\workspace\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e88109e5aaf5c56a65e186df0308a403\workspace\transformed\core-ktx-1.17.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\71c0812dec9cd2ec0f2c15b89c0658ec\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\17f520752ed56d5cdd16d2219a6bb5af\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5c1b69020e77f61a04debc0d595e19ad\workspace\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\adb99d1fe9cf8d7deb77e3c54e2b3ddb\workspace\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\865a1a5356278225261bfd6804b28ad0\workspace\transformed\datastore-preferences-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5c931af53674faf99501f8b75b304111\workspace\transformed\datastore-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\0f1c4cce4d6b59c1ce4e8cdaf5dae845\workspace\transformed\datastore-preferences\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\6134d5f8339d0121a949ea6026bf7042\workspace\transformed\datastore\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ac3dbed3f0f19926fe4f749027dae3f\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e81d5eeb13a3223f331ec31d266f9dbb\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b4102c231a6286b797c71f1baf13a34\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\b29c715449f72c435a349c85b3d0caea\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9742857b1348f9280538369b25be1b97\workspace\transformed\exifinterface-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\edd921f3d079cdfa25fa38fcddc7d994\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\cd2c59b851083326f63879acf62ab040\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\676a00389ce276119408c3f879732fa3\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\044b3bfb291122cb5d839f7bb5f457ef\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\351270bffe273cd281381403a975b48c\workspace\transformed\core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\336483228e0435006a40d56cae8d6634\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\eaec30f7aa2286e29e53547b46f28aab\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\944a2efc24e2e0f77326922d335f8a70\workspace\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ae01703e8ba44e569ce5fa8506d081c\workspace\transformed\relinker-1.4.5\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:8:22-64
+activity#com.example.safety_app.MainActivity
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:14:9-32:20
+	android:launchMode
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:22:13-55
+	android:exported
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:16:13-36
+	android:configChanges
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:20:13-163
+	android:theme
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:taskAffinity
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:15:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:24:13-26:57
+	android:resource
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:26:17-54
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:25:17-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:30:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:34:9-36:33
+	android:value
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:36:13-30
+	android:name
+		ADDED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml:35:13-44
+uses-sdk
+INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+MERGED from [:fluttercontactpicker_plus] C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:fluttercontactpicker_plus] C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding_android] C:\Users\I Am TCCIT\Walcks\build\geocoding_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding_android] C:\Users\I Am TCCIT\Walcks\build\geocoding_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:jni_flutter] C:\Users\I Am TCCIT\Walcks\build\jni_flutter\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:jni_flutter] C:\Users\I Am TCCIT\Walcks\build\jni_flutter\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:jni] C:\Users\I Am TCCIT\Walcks\build\jni\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:jni] C:\Users\I Am TCCIT\Walcks\build\jni\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\Users\I Am TCCIT\Walcks\build\package_info_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\Users\I Am TCCIT\Walcks\build\package_info_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\baea6858da4188cc87e9b309d9581185\workspace\transformed\play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\baea6858da4188cc87e9b309d9581185\workspace\transformed\play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ff37497f57f986e9fcda827e43928a1\workspace\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ff37497f57f986e9fcda827e43928a1\workspace\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\0e8685eb873f930c2d934e8a0cb52f35\workspace\transformed\browser-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\0e8685eb873f930c2d934e8a0cb52f35\workspace\transformed\browser-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3011132ea42f1fb8e17f3e414b357516\workspace\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3011132ea42f1fb8e17f3e414b357516\workspace\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\d97e8ebe169ff71bb8d8cd24b20c4b5c\workspace\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\d97e8ebe169ff71bb8d8cd24b20c4b5c\workspace\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\dbf382485cedbea82a05027c1955eeb3\workspace\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\dbf382485cedbea82a05027c1955eeb3\workspace\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\169afe10ff2f01272b137719d317fb78\workspace\transformed\window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\169afe10ff2f01272b137719d317fb78\workspace\transformed\window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\722ddbf2b9d5557837d89eb6c7c7be28\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\722ddbf2b9d5557837d89eb6c7c7be28\workspace\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\01d73e21b5ac055796b537161fdf2798\workspace\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\01d73e21b5ac055796b537161fdf2798\workspace\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\185ef1024ea4b8de184f956b833ac40a\workspace\transformed\fragment-ktx-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.7.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\185ef1024ea4b8de184f956b833ac40a\workspace\transformed\fragment-ktx-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\f50199c6f2c0bda4d178780a23cc1f50\workspace\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\f50199c6f2c0bda4d178780a23cc1f50\workspace\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\13fe1f53ec9f73bcb89d12befbf6d68a\workspace\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\13fe1f53ec9f73bcb89d12befbf6d68a\workspace\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\f94177dd763c96e4583ec4f1fb6402ad\workspace\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\f94177dd763c96e4583ec4f1fb6402ad\workspace\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8a6d667d2630f9b6dbacca3965bc2a96\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8a6d667d2630f9b6dbacca3965bc2a96\workspace\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\1910b6d9312a778ba1bce42e0ad447b6\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\1910b6d9312a778ba1bce42e0ad447b6\workspace\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9c03e2381136b6831b281ff9bd73cf46\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9c03e2381136b6831b281ff9bd73cf46\workspace\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\61070a8fba1ea80b750da88bf19a92c7\workspace\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\61070a8fba1ea80b750da88bf19a92c7\workspace\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\33205348bc67036e78f8c2342772ca91\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\33205348bc67036e78f8c2342772ca91\workspace\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\d3211d1d7fd67f776447c54fdd47dad2\workspace\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\d3211d1d7fd67f776447c54fdd47dad2\workspace\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3527fd5c9b1735c136ab64fdeadc3bd3\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3527fd5c9b1735c136ab64fdeadc3bd3\workspace\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\cf9664ba8c5c4414650bee773713e7bb\workspace\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\cf9664ba8c5c4414650bee773713e7bb\workspace\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\bcc68d1ab496af16533338b8f60a5b3c\workspace\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\bcc68d1ab496af16533338b8f60a5b3c\workspace\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\1ff99216ea621199391367349185a5c0\workspace\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\1ff99216ea621199391367349185a5c0\workspace\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5bf42ee1243bc8553b0b0f5e9217a5e8\workspace\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5bf42ee1243bc8553b0b0f5e9217a5e8\workspace\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\fa680d2c652d4a5fee36a8142f0bc47f\workspace\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\fa680d2c652d4a5fee36a8142f0bc47f\workspace\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\516b6a68a64c500f5e831b94e32b4b7c\workspace\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\516b6a68a64c500f5e831b94e32b4b7c\workspace\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3426c2155b5573e7f9d7789e3d58fffa\workspace\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3426c2155b5573e7f9d7789e3d58fffa\workspace\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\87fc5e4fc92461a94440f9843cba1254\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\87fc5e4fc92461a94440f9843cba1254\workspace\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\24758a678aa8332920bcf354b2fc92ed\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\24758a678aa8332920bcf354b2fc92ed\workspace\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\21147ec51953fdf1826caf13610476e6\workspace\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\21147ec51953fdf1826caf13610476e6\workspace\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\099fa84de9a3b9c91d7f9d4a61afe2f1\workspace\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\099fa84de9a3b9c91d7f9d4a61afe2f1\workspace\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e88109e5aaf5c56a65e186df0308a403\workspace\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e88109e5aaf5c56a65e186df0308a403\workspace\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\71c0812dec9cd2ec0f2c15b89c0658ec\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\71c0812dec9cd2ec0f2c15b89c0658ec\workspace\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\17f520752ed56d5cdd16d2219a6bb5af\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\17f520752ed56d5cdd16d2219a6bb5af\workspace\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5c1b69020e77f61a04debc0d595e19ad\workspace\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5c1b69020e77f61a04debc0d595e19ad\workspace\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\adb99d1fe9cf8d7deb77e3c54e2b3ddb\workspace\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\adb99d1fe9cf8d7deb77e3c54e2b3ddb\workspace\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\865a1a5356278225261bfd6804b28ad0\workspace\transformed\datastore-preferences-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-core-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\865a1a5356278225261bfd6804b28ad0\workspace\transformed\datastore-preferences-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5c931af53674faf99501f8b75b304111\workspace\transformed\datastore-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\5c931af53674faf99501f8b75b304111\workspace\transformed\datastore-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\0f1c4cce4d6b59c1ce4e8cdaf5dae845\workspace\transformed\datastore-preferences\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\0f1c4cce4d6b59c1ce4e8cdaf5dae845\workspace\transformed\datastore-preferences\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\6134d5f8339d0121a949ea6026bf7042\workspace\transformed\datastore\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.2.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\6134d5f8339d0121a949ea6026bf7042\workspace\transformed\datastore\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ac3dbed3f0f19926fe4f749027dae3f\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ac3dbed3f0f19926fe4f749027dae3f\workspace\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e81d5eeb13a3223f331ec31d266f9dbb\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e81d5eeb13a3223f331ec31d266f9dbb\workspace\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b4102c231a6286b797c71f1baf13a34\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b4102c231a6286b797c71f1baf13a34\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\b29c715449f72c435a349c85b3d0caea\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\b29c715449f72c435a349c85b3d0caea\workspace\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9742857b1348f9280538369b25be1b97\workspace\transformed\exifinterface-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.4.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9742857b1348f9280538369b25be1b97\workspace\transformed\exifinterface-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\edd921f3d079cdfa25fa38fcddc7d994\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\edd921f3d079cdfa25fa38fcddc7d994\workspace\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\cd2c59b851083326f63879acf62ab040\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\cd2c59b851083326f63879acf62ab040\workspace\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\676a00389ce276119408c3f879732fa3\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\676a00389ce276119408c3f879732fa3\workspace\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\044b3bfb291122cb5d839f7bb5f457ef\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\044b3bfb291122cb5d839f7bb5f457ef\workspace\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\351270bffe273cd281381403a975b48c\workspace\transformed\core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\351270bffe273cd281381403a975b48c\workspace\transformed\core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\336483228e0435006a40d56cae8d6634\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\336483228e0435006a40d56cae8d6634\workspace\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\eaec30f7aa2286e29e53547b46f28aab\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\eaec30f7aa2286e29e53547b46f28aab\workspace\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\944a2efc24e2e0f77326922d335f8a70\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\944a2efc24e2e0f77326922d335f8a70\workspace\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ae01703e8ba44e569ce5fa8506d081c\workspace\transformed\relinker-1.4.5\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\8ae01703e8ba44e569ce5fa8506d081c\workspace\transformed\relinker-1.4.5\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\I Am TCCIT\Walcks\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from [:fluttercontactpicker_plus] C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from [:fluttercontactpicker_plus] C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:22-69
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-12:56
+	android:enabled
+		ADDED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-35
+	android:exported
+		ADDED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:13-53
+	android:name
+		ADDED from [:geolocator_android] C:\Users\I Am TCCIT\Walcks\build\geolocator_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-77
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\I Am TCCIT\Walcks\build\url_launcher_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\3af980662234f52902de775e9c6e354f\workspace\transformed\window-1.2.0\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b794f3c20ac432f2cc884ad81a3579f\workspace\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e57a3239817be9efd2c269ec218c351b\workspace\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b4102c231a6286b797c71f1baf13a34\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9b4102c231a6286b797c71f1baf13a34\workspace\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\a3de873eaa28f37d5d7edb46f82942a3\workspace\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+permission#com.example.safety_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.safety_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\e7c3cca8909da9db223cc6f0276ae313\workspace\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\9769e122bbba14d4a075c4f9208443ae\workspace\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

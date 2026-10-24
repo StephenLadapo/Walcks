@@ -1,0 +1,30 @@
+<variant
+    name="release"
+    package="io.flutter.plugins.sharedpreferences"
+    minSdkVersion="24"
+    targetSdkVersion="36.0"
+    mergedManifest="C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml"
+    manifestMergeReport="C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.1.0"
+    partialResultsDir="C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\release\java;src\main\kotlin;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"
+        keepRulesDirectories="src\main\keepRules;src\release\keepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\intermediates\javac\release\compileReleaseJavaWithJavac\classes;C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\tmp\kotlin-classes\release;C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar"
+      type="MAIN"
+      applicationId="io.flutter.plugins.sharedpreferences"
+      generatedSourceFolders="C:\Users\I Am TCCIT\Walcks\build\shared_preferences_android\generated\ap_generated_sources\release\out"
+      desugaredMethodsFiles="C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\b0be1f807b2bb5705843090c37bdabde\workspace\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

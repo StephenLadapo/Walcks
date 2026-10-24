@@ -1,0 +1,27 @@
+<lint-module
+    format="1"
+    dir="C:\Users\I Am TCCIT\AppData\Local\Pub\Cache\hosted\pub.dev\fluttercontactpicker_plus-5.1.1\android"
+    name=":fluttercontactpicker_plus"
+    type="LIBRARY"
+    maven="me.schlaubi.fluttercontactpicker:fluttercontactpicker_plus:4.7.0-SNAPSHOT"
+    agpVersion="9.1.0"
+    buildFolder="C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus"
+    bootClassPath="C:\Android\Sdk\platforms\android-34\android.jar;C:\Android\Sdk\build-tools\36.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true"
+    highlightGradualR8Api="false">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

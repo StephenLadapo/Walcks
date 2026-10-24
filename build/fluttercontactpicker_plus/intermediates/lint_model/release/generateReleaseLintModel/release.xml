@@ -1,0 +1,30 @@
+<variant
+    name="release"
+    package="com.example.fluttercontactpicker"
+    minSdkVersion="16"
+    targetSdkVersion="34"
+    mergedManifest="C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml"
+    manifestMergeReport="C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\outputs\logs\manifest-merger-release-report.txt"
+    proguardFiles="C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\default_proguard_files\global\proguard-android-optimize.txt-9.1.0"
+    partialResultsDir="C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\lint_partial_results\release\lintAnalyzeRelease\out">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin;src\release\java;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"
+        keepRulesDirectories="src\main\keepRules;src\release\keepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\javac\release\compileReleaseJavaWithJavac\classes;C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\tmp\kotlin-classes\release;C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar"
+      type="MAIN"
+      applicationId="com.example.fluttercontactpicker"
+      generatedSourceFolders="C:\Users\I Am TCCIT\Walcks\build\fluttercontactpicker_plus\generated\ap_generated_sources\release\out"
+      desugaredMethodsFiles="C:\Users\I Am TCCIT\.gradle\caches\9.3.1\transforms\bd0716919cb19989a62a927dd5430e29\workspace\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

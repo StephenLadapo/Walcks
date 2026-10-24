@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\I Am TCCIT\Walcks\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="9.1.0"
+    buildFolder="C:\Users\I Am TCCIT\Walcks\build\app"
+    bootClassPath="C:\Android\Sdk\platforms\android-36\android.jar;C:\Android\Sdk\build-tools\36.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36"
+    highlightGradualR8Api="false">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
